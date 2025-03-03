@@ -1,0 +1,70 @@
+{
+  "name": "Optimized Economy",
+  "short_name": "Optimized Economy",
+  "description": "An economic model based on the potential of science",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2016px%20x%2016px%20png.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2032px%20x%2032px%20png.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2048px%20x%2048px%20png.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20192px%20x%20192px%20png.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20512px%20x%20512px%20png.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20512px%20x%20512px%20svg.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2016px%20x%2016px%20ico.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%2076px%20x%2076px%20png.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20120px%20x%20120%20px%20png.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20152px%20152px%20png.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20180px%20x%20180px%20png.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "msapplication": {
+    "TileColor": "#ffffff",
+    "TileImage": "https://raw.githubusercontent.com/sylwester1975/oe-favicons/5dba2c325856ea73839bb131ef408c9c8a119864/oe%20512px%20x%20512px%20svg.svg?raw=true"
+  }
+}
